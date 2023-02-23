@@ -1,4 +1,4 @@
-package main.java.Templates.Builder;
+package Templates.Builder;
 
 public class Product {
     private String attribute1;

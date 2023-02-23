@@ -1,4 +1,4 @@
-package main.java.Templates.Builder;
+package Templates.Builder;
 
 public abstract class Builder {
     protected  Product product;

@@ -1,4 +1,4 @@
-package main.java.Templates.Interpreter;
+package Templates.Interpreter;
 
 public class TerminalExpressionC extends AbstractExpression {
     // input             CD  ---> D  ----->

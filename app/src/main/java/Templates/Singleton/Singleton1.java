@@ -1,4 +1,4 @@
-package main.java.Templates.Singleton;
+package Templates.Singleton;
 
 public class Singleton1 {
     //1) attribute same type

@@ -1,4 +1,4 @@
-package main.java.Templates.Interpreter;
+package Templates.Interpreter;
 
 public class Context {
     protected String input="";

@@ -1,4 +1,4 @@
-package main.java.Templates.Interpreter;
+package Templates.Interpreter;
 
 import java.util.ArrayList;
 import java.util.List;

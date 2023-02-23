@@ -1,4 +1,4 @@
-package main.java.Templates.Iterator;
+package Templates.Iterator;
 
 public class Client {
     public static void main (String[]args){

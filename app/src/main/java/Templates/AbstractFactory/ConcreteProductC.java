@@ -1,4 +1,4 @@
-package main.java.Templates.AbstractFactory;
+package Templates.AbstractFactory;
 
 public class ConcreteProductC implements IProduct{
     @Override

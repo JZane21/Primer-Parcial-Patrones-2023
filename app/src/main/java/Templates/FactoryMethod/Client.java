@@ -1,4 +1,4 @@
-package main.java.Templates.FactoryMethod;
+package Templates.FactoryMethod;
 
 public class Client {
     public static void main (String[]ars){

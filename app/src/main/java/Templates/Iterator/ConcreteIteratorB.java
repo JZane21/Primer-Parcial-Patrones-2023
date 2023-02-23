@@ -1,4 +1,4 @@
-package main.java.Templates.Iterator;
+package Templates.Iterator;
 
 import java.util.List;
 import java.util.Vector;

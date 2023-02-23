@@ -1,4 +1,4 @@
-package main.java.Templates.Builder;
+package Templates.Builder;
 
 public class ConcreteBuilder1 extends Builder{
     @Override

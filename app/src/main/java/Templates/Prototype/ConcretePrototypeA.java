@@ -1,4 +1,4 @@
-package main.java.Templates.Prototype;
+package Templates.Prototype;
 
 public class ConcretePrototypeA implements IPrototype {
 
