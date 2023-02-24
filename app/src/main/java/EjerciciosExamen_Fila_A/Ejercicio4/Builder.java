@@ -11,6 +11,7 @@ public abstract class Builder {
         paquete = new Paquete();
     }
 
+    public abstract void nombrarse();
     public abstract void buildPipocas();
     public abstract void buildGaseosas();
     public abstract void buildChocolates();
